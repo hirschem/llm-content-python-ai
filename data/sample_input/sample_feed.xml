@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Sample Music Feed</title>
+    <link>https://example.com</link>
+    <description>Synthetic demo items for a sanitized pipeline repo.</description>
+
+    <item>
+      <title>Indie trio drops a new alternative single</title>
+      <link>https://example.com/indie-single</link>
+      <pubDate>Mon, 02 Feb 2026 12:00:00 GMT</pubDate>
+      <description>An indie band released a new alternative track blending synth textures with live drums. The song leans into an underground aesthetic and DIY production. Fans of alt rock may enjoy the chorus-driven arrangement.</description>
+    </item>
+
+    <item>
+      <title>Producer explores electronic textures on a debut EP</title>
+      <link>https://example.com/electronic-ep</link>
+      <pubDate>Tue, 03 Feb 2026 18:30:00 GMT</pubDate>
+      <description>A new EP experiments with electronic rhythms and minimal vocals. The production highlights synth layers, ambient pads, and tight percussion. The release sits between EDM and experimental sound design.</description>
+    </item>
+
+    <item>
+      <title>Community spotlight: local rap showcase series expands</title>
+      <link>https://example.com/rap-showcase</link>
+      <pubDate>Wed, 04 Feb 2026 09:15:00 GMT</pubDate>
+      <description>A grassroots rap series announced additional dates and new MCs. Organizers emphasized artist empowerment and community building. The showcase will feature emerging talent and collaborative sets.</description>
+    </item>
+  </channel>
+</rss>

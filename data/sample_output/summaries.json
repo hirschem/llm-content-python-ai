@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Indie trio drops a new alternative single",
+    "url": "https://example.com/indie-single",
+    "one_sentence": "An indie band released a new alternative track blending synth textures with live drums",
+    "bullets": [
+      "An indie band released a new alternative track blending synth textures with live drums.",
+      "The song leans into an underground aesthetic and DIY production.",
+      "Fans of alt rock may enjoy the chorus-driven arrangement."
+    ],
+    "tags": [
+      "indie",
+      "electronic"
+    ]
+  },
+  {
+    "title": "Producer explores electronic textures on a debut EP",
+    "url": "https://example.com/electronic-ep",
+    "one_sentence": "A new EP experiments with electronic rhythms and minimal vocals",
+    "bullets": [
+      "A new EP experiments with electronic rhythms and minimal vocals.",
+      "The production highlights synth layers, ambient pads, and tight percussion.",
+      "The release sits between EDM and experimental sound design."
+    ],
+    "tags": [
+      "electronic"
+    ]
+  },
+  {
+    "title": "Community spotlight: local rap showcase series expands",
+    "url": "https://example.com/rap-showcase",
+    "one_sentence": "A grassroots rap series announced additional dates and new MCs",
+    "bullets": [
+      "A grassroots rap series announced additional dates and new MCs.",
+      "Organizers emphasized artist empowerment and community building.",
+      "The showcase will feature emerging talent and collaborative sets."
+    ],
+    "tags": [
+      "hip-hop"
+    ]
+  }
+]
